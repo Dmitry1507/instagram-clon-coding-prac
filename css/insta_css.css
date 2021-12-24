@@ -1,0 +1,94 @@
+.container {
+    width: 24em;
+    height: 40em;
+    border: 0.1em solid lightgray;
+    margin: 4em auto;
+    position: relative;
+    background-color: white;
+
+}
+
+.insta_head {
+  height: 3em;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.camera {
+  width: 1.3em;
+  height: 1.3em;
+
+}
+
+.logo {
+  width: 5.2em;
+  height: 2em;
+}
+
+.dm {
+  width: 1.3em;
+  height: 1.3em;
+}
+
+.story_line {
+  height: 6em;
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.story_image {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.profile {
+  width: 3em;
+  height: 3em;
+  object-fit: cover;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  line-height: 0.5em;
+  margin-top: 1em
+}
+
+.write_profie {
+  height: 4em;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.user_5{
+  width: 3em;
+  height: 3em;
+  object-fit: cover;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: yellow;
+  line-height: 0.5em;
+  margin-top: 1em
+}
+
+.css\.gif{
+  height: 18em;;
+  align-items: center;
+
+}
